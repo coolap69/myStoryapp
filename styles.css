@@ -1,0 +1,25 @@
+header {
+   background-color: rgb(223, 188, 143);   
+}
+
+.container {
+    margin:  20px auto;
+    width: auto;
+    height: auto;
+}
+
+.container > div {
+    width: 33%;
+} 
+.home {
+    float: left;
+    color: white;
+}
+.LogOut {
+    float: right;
+    color: white;
+}
+.adding {
+    margin: auto;
+    color: white;
+}
